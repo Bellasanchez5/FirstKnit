@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Marbella"
 output: 
   html_document:
     number_sections: true
@@ -14,10 +14,10 @@ date: "`r Sys.Date()`"
 Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation. 
 
 ## A short history of you.  
-Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
+Where did you attend High School, and did you graduate? Compare English class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
+I attended high school at Rosamond High School. I graduated 2014. English is an easy class to pass.  Math can as well be easy if you put in the work. I enjoy accounting. I like figuring out problems like solving puzzle pieces.   
 
      
 
@@ -26,15 +26,14 @@ Where did you attend High School, and did you graduate? Compare english class to
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  
+ I have an apple laptop and I know how to use it from scale 1-10, will be 6. I have not used my apple laptop since back in 2018. I will use another laptop that is not an apple and it is a lot different. I have internet access at home and the internet connection is strong. 
    
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
-   
+  My name is Marbella and my classmates and professor calls me by my actual name. My friends and family call me Bella for short. I like to be called either or and whatever their preference is.
  
 
 
@@ -44,7 +43,7 @@ What name do you prefer to be called by your classmates and instructor, if your 
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
 ### my answer     
-  
+ I want to obtain an associated degree in accounting and business administration. Accounting will be my most interest subject in college and will be graduating with an associates degree in 2024. 
    
  
 
@@ -55,7 +54,7 @@ What do you want to achieve in life?  What college subject do you think would be
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
 ### my answer     
-  
+ I have not traveled to foreign countries but I am planning to once I have everything settled in life and make great money to afford to travel. I for sure will love to visit Barcelona.  
    
   
 
@@ -68,7 +67,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
  
 
 ### my answer     
-  
+ I haven't taken either. This will be my first time to taking statistics. I need to take statistics as part of my G.E to graduate in the Spring of 2024.  
    
  
 
